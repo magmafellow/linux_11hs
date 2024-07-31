@@ -1,0 +1,8 @@
+ps ux = show processes started by You (User)
+
+pidof <name_of_program> = show the pid of the process of the program
+pidof firefox
+
+kill <pid> = kill a process
+
+
